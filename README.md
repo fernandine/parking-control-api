@@ -1,2 +1,2 @@
 # parking-control-api
-Criação de controle de estacionamento do curso Spring boot - prof. Michelli Brito
+Criação de Api para controle de estacionamento do curso Spring boot - prof. Michelli Brito
